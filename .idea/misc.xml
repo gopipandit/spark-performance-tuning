@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (PySpark)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f4cb616c-b3c3-4882-b27e-c8a4de2093de" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+</project>

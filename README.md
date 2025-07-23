@@ -1,1 +1,2 @@
-# spark-performance-tuning
+# PySpark Performance Tuning
+*My focus is to learn Spark concepts in depth and understand the various optimization techniques that Spark provides. I am proficient in Python coding and will be using PySpark (the Python API for Apache Spark).*
